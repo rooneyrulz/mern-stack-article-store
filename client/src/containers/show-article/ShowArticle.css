@@ -1,0 +1,11 @@
+.card {
+  position: relative;
+}
+
+.card-close {
+  position: absolute;
+  top: -2rem;
+  right: -1rem;
+  font-size: 3rem;
+  color: crimson;
+}
